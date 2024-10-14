@@ -1,0 +1,8 @@
+﻿trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,Arousal,shape,pair,Label,key_resp_2.keys,key_resp_2.corr,key_resp_2.rt,key_resp_2.duration,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+0,0,0,0,15.322776124987286,,distractor absent,square,unmatch,Stranger,m,0,12.860949375026394,None,359174,001,2024-10-14_13h36.57.300,preliminary_experiment,2023.2.2,119.2008772840618,2024-10-14 13h37.03.639927 +0530,
+1,0,1,0,17.370958082959987,,distractor absent,square,match,You,n,0,14.812630542030092,None,359174,001,2024-10-14_13h36.57.300,preliminary_experiment,2023.2.2,119.2008772840618,2024-10-14 13h37.03.639927 +0530,
+2,0,2,0,21.37456258299062,,distractor absent,triangle,unmatch,You,m,0,12.401559584017377,None,359174,001,2024-10-14_13h36.57.300,preliminary_experiment,2023.2.2,119.2008772840618,2024-10-14 13h37.03.639927 +0530,
+3,0,3,0,22.973429832956754,,distractor absent,triangle,unmatch,You,None,0,,,359174,001,2024-10-14_13h36.57.300,preliminary_experiment,2023.2.2,119.2008772840618,2024-10-14 13h37.03.639927 +0530,
+4,0,4,0,28.98765695799375,,distractor absent,triangle,unmatch,You,m,0,13.344787166977767,None,359174,001,2024-10-14_13h36.57.300,preliminary_experiment,2023.2.2,119.2008772840618,2024-10-14 13h37.03.639927 +0530,
+5,0,5,0,31.516933624981903,,distractor absent,square,match,You,n,0,12.257505416986533,None,359174,001,2024-10-14_13h36.57.300,preliminary_experiment,2023.2.2,119.2008772840618,2024-10-14 13h37.03.639927 +0530,
+,,,,32.979523749963846,,distractor absent,triangle,match,Stranger,,,,,,,,,,,,
